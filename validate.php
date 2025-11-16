@@ -5,7 +5,7 @@
  * This script validates Iranian national ID numbers based on official checksum rules.
  * 
  * Author: YoozNet
- * GitHub Repository: https://github.com/YoozNet/PHP-National-ID-Validator
+ * GitHub Repository: https://github.com/shanaqisaeed/PHP-National-ID-Validator
  * License: MIT License (See LICENSE file)
  * 
  * Permission is granted to use this software, provided that proper attribution is given.
